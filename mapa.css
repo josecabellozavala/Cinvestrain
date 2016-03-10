@@ -1,0 +1,42 @@
+#cuadro1
+{
+    
+    
+     
+   
+}
+
+
+
+#cuadro3
+{
+    
+    
+        width: 60%;
+   height: 10%;
+  
+
+position: absolute;
+ 
+     top:20%;
+     left: 0%;
+   float: left;
+   
+}
+
+#cuadro4
+{
+    
+    
+        width: 60%;
+   height: 80%;
+   background-color: bisque;
+  
+
+position: absolute;
+ 
+     top:30%;
+     left: 0%;
+   float: left;
+   
+}

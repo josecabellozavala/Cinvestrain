@@ -1,0 +1,176 @@
+#fon
+{
+    
+ background-color:rgb(237,239,237);
+}
+
+
+#barr
+{
+    
+    position: absolute;
+    background-color:#36acd2 ;
+    width:73%;
+    height:6.8%;
+    top:0%; 
+    left:26%;  
+    float:right;  
+}
+#tit
+{
+     position: absolute;
+   
+    width: 30%;
+    height:15%;
+    top:0%;
+    left:40%;
+    float:left;
+     z-index: 0;
+}
+#bien
+{
+ position: absolute;
+    background-color:#0fbfc6;
+    width: 25%;
+    height:10%;
+    left:75%;
+    top: 10%;
+    float:left;   
+    
+}
+#login
+{
+  position: absolute;
+    background-color: #7cb7e3 ;
+    width: 30%;
+    height:20%;
+    left:0%;
+    top: 20%;
+    float:left;  
+    
+}
+#login2
+{
+  position: absolute;
+   
+    width: 10%;
+    height:9%;
+    left:40%;
+    top: 70%;
+    float:left;  
+    
+}
+#intro
+{
+        position: absolute;
+    background-color: #7cb7e3 ;
+    width: 40%;
+    height:35%;
+    left:20%;
+    top: 45%;
+    float:left;
+    
+}
+
+* {
+font-family:sans-serif;
+list-style:none;
+text-decoration:none;
+margin:0;
+padding:0;
+}
+ 
+.nav > li {
+float:left;
+}
+ 
+.nav li a {
+background:#36acd2;
+color:#FFF;
+display:block;
+border:1px solid;
+padding:10px 12px;
+}
+ 
+.nav li a:hover {
+background:#0fbfc6;
+}
+
+
+.nav li .flecha{
+font-size: 9px;
+padding-left: 6px;
+display: none;
+}
+
+.nav li a:not(:last-child) .flecha {
+display: inline;
+}
+
+.nav li ul li {
+position:relative;
+}
+ 
+.nav li ul li ul {
+right:-168px;
+top:0;
+}
+
+.nav li:hover > ul {
+display:block;
+}
+
+.nav li ul {
+display:none;
+position:absolute;
+min-width:140px;
+ z-index: 1;
+}
+ 
+#posi
+{
+       
+    background-color: #09f;
+    width:40%; 
+    height:35%;
+        position: absolute;
+    left:50%;
+    top: 45%;
+    float:left;
+     
+} 
+#posi1
+{
+       
+    background-color: #09f;
+    width:40%; 
+    height:35%;
+        position: absolute;
+    left:50%;
+    top: 45%;
+    float:left;
+     
+} 
+#bot
+{
+    
+    
+     background-color: #09f;
+    width:40%; 
+    height:35%;
+       left:0%;
+   float:left;
+}
+
+#cuadrobus
+{
+       
+    background-color: #3e779d;
+    width:40%; 
+    height:35%;
+        position: absolute;
+    left:30%;
+    top: 45%;
+    float:left;
+     
+} 

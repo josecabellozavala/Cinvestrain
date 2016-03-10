@@ -1,0 +1,38 @@
+
+
+#ayaxtable{
+    top:0px;
+    bottom:0px;
+    position:fixed;
+    padding:10px;
+    padding-left:20px;
+    background:black;
+    color:white ! important;
+    width:400px;
+    right:-400px;
+    transition-duration:2s;
+    -moz-transition-duration:2s;
+    -webkit-transition-duration:2s;
+    -o-transition-duration:2s;
+    -ms-transition-duration:2s;
+    height:100%;
+    border-left:3px solid red;
+}
+#ayaxtable:hover{
+    
+    transition-duration:2s;
+    -moz-transition-duration:2s;
+    -khtml-transition-duration:2s;
+    -webkit-transition-duration:2s;
+    -o-transition-duration:2s;
+    -ms-transition-duration:2s;
+    right:0px;
+    
+}
+
+    
+    
+    
+ 
+    
+

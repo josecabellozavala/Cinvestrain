@@ -1,0 +1,23 @@
+#forma
+{
+     background-color: rgba(0,255,243,0.5) ;
+   width:50%;
+    height:80% ;
+     position: absolute;
+     top:20%;
+     left: 20%;
+     float: left;
+    
+}
+#formIma
+{
+     background-color: rgba(0,255,243,0.5) ;
+    width:50%;
+    height:70%;
+    position: absolute;
+    left:80%;
+        top:20%;
+        float: left;
+     line-height: 200%;
+    
+}
